@@ -17,7 +17,7 @@
     background-image: url('uploads/6938839_3409297.jpg');
     background-size: cover;
     background-position: center;
-    height: 825px;
+    height: 725px;
     display: flex;
     align-items: center;
     justify-content: center;

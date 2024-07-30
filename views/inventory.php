@@ -27,7 +27,7 @@
 						<ul class="nav nav-pills">
 							<li class="active"><a href="#new" data-toggle="tab"><i class=""></i>&nbsp;&nbsp;New</a></li>
 							<li><a href="#old" data-toggle="tab"><i class=""></i>&nbsp;&nbsp;Old</a></li>
-							<li><a href="#transferred" data-toggle="tab"><i class=""></i>&nbsp;&nbsp;Transferred</a></li>
+							<!-- <li><a href="#transferred" data-toggle="tab"><i class=""></i>&nbsp;&nbsp;Transferred</a></li> -->
 							<li><a href="#report2" data-toggle="tab"><i class=""></i>&nbsp;&nbsp;Borrowed</a></li>
 						</ul>
 					</div>
